@@ -1,8 +1,13 @@
 # BusTimeSG
 
-**BusTimeSG** is a lightweight single-page web application for checking real-time bus arrival information in Singapore.
+**BusTimeSG** is a lightweight single-page web application for checking real-time bus arrival information in Singapore, designed primarily for mobile commuters.
 
-Designed primarily for mobile commuters, the app provides:
+<div style="text-align:center;">
+  <img src="demo_UI/demo_UI1.png" width="300" alt="Home screen" style="margin: 0 8px;">
+  <img src="demo_UI/demo_UI2.png" width="300" alt="Arrival results" style="margin: 0 8px;">
+</div>
+
+The app provides:
 - nearby bus stop discovery
 - manual bus stop lookup
 - real-time arrival timings
@@ -65,19 +70,19 @@ Central Singapore MRT stations are grouped into a shared “city centre” theme
 
 ### Crowding Indicators
 
-| Color | Meaning |
-|---|---|
-| Green | Seats Available (`SEA`) |
-| Orange | Standing Available (`SDA`) |
-| Red | Limited Standing (`LSD`) |
+| Color   | Meaning                    |
+|---------|----------------------------|
+| Green   | Seats Available (`SEA`)    |
+| Orange  | Standing Available (`SDA`) |
+| Red     | Limited Standing (`LSD`)   |
 
 ### Vehicle Types
 
-| Code | Meaning |
-|---|---|
+| Code | Meaning     |
+|------|-------------|
 | `SD` | Single-deck |
 | `DD` | Double-deck |
-| `BD` | Bendy bus |
+| `BD` | Bendy bus   |
 
 Wheelchair-accessible services are marked with the `WAB` accessibility indicator.
 
@@ -100,14 +105,14 @@ The application also includes:
 
 # Technology Stack
 
-| Layer | Technology |
-|---|---|
-| Frontend Framework | AngularJS 1.6.8 |
-| Angular Modules | `ngRoute`, `ngResource`, `ngSanitize`, `ngAnimate` |
-| UI Framework | Bootstrap 3.3.7 |
-| DOM Utilities | jQuery 3.3.1 |
-| Icons | Font Awesome 5 |
-| Data Source | Local JSON metadata + external arrival API |
+| Layer              | Technology                                         |
+|--------------------|----------------------------------------------------|
+| Frontend Framework | AngularJS 1.6.8                                    |
+| Angular Modules    | `ngRoute`, `ngResource`, `ngSanitize`, `ngAnimate` |
+| UI Framework       | Bootstrap 3.3.7                                    |
+| DOM Utilities      | jQuery 3.3.1                                       |
+| Icons              | Font Awesome 5                                     |
+| Data Source        | Local JSON metadata + external arrival API         |
 
 The project intentionally uses a lightweight architecture with:
 - no build system
