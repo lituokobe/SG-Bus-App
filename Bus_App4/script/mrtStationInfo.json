@@ -1,0 +1,162 @@
+{"mrtStationInfo":[
+   {
+      "coords":"103.673755638, 1.32330870676",
+      "name":"JooKoon"
+   },
+   {
+      "coords":"103.703722185, 1.33666198668",
+      "name":"BoonLay"
+   },
+   {
+      "coords":"103.742119, 1.333415",
+      "name":"JurongEast"
+   },
+   {
+      "coords":"103.75914363, 1.30918042994",
+      "name":"Clementi"
+   },
+   {
+      "coords":"103.790428, 1.306817",
+      "name":"BuonaVista"
+   },
+   {
+      "coords":"103.803665119, 1.28999717334",
+      "name":"Qeenstown"
+   },
+   {
+      "coords":"103.8167134, 1.28717218464",
+      "name":"Redhill"
+   },
+   {
+      "coords":"103.809678, 1.270572",
+      "name":"TelokBlangah"
+   },
+   {
+      "coords":"103.825997 1.320069 ",
+      "name":"Stevens"
+   },
+   {
+      "coords":"103.839543308, 1.31890205772",
+      "name":"Novena"
+   },
+   {
+      "coords":"103.845736, 1.299156",
+      "name":"DhobyGaut"
+   },
+   {
+      "coords":"103.854028, 1.312314",
+      "name":"FarrerPark"
+   },
+   {
+      "coords":"103.857801569, 1.3042987828",
+      "name":"Lavender"
+   },
+   {
+      "coords":"103.875306, 1.302856",
+      "name":"Stadium"
+   },
+   {
+      "coords":"103.852801589, 1.2723239107",
+      "name":"MarinaBay"
+   },
+   {
+      "coords":"103.851328261, 1.28927550956",
+      "name":"CityHall"
+   },
+   {
+      "coords":"103.82225, 1.265297",
+      "name":"HarbourFront"
+   },
+   {
+      "coords":"103.892381, 1.317767",
+      "name":"PayaLebar"
+   },
+   {
+      "coords":"103.901861393, 1.31850039266",
+      "name":"Eunos"
+   },
+   {
+      "coords":"103.924684635, 1.32108871564",
+      "name":"Bedok"
+   },
+   {
+      "coords":"103.957056172, 1.33461366154",
+      "name":"Changi"
+   },
+    {
+      "coords":"103.940522905, 1.3515152606",
+      "name":"Tampines"
+   },
+   {
+      "coords":"103.849175, 1.306725",
+      "name":"LittleIndia"
+   },
+   {
+      "coords":"103.844006, 1.28485",
+      "name":"ChinaTown"
+   },
+   {
+      "coords":"103.861722, 1.319483",
+      "name":"BoonKeng"
+   },
+    {
+      "coords":"103.873092, 1.349944",
+      "name":"Serangoon"
+   },
+   {
+      "coords":"103.892161, 1.371292",
+      "name":"Hougang"
+   },
+   {
+      "coords":"103.902097, 1.405264",
+      "name":"Punggol"
+   },
+   {
+      "coords":"103.842014965, 1.32628702818",
+      "name":"TohPayoh"
+   },
+    {
+      "coords":"103.848456, 1.351236",
+      "name":"Bishan"
+   },
+   {
+      "coords":"103.84945, 1.370017",
+      "name":"AngMoKio"
+   },
+   {
+      "coords":"103.834473329, 1.42434330262",
+      "name":"Yishun"
+   },
+    {
+      "coords":"103.818755058, 1.44274656234",
+      "name":"NorthSingapore"
+   },
+   {
+      "coords":"103.785220192, 1.43558825764",
+      "name":"Woodlands"
+   },
+   {
+      "coords":"103.744322, 1.385092",
+      "name":"NorthWestSingapore"
+   },
+   {
+      "coords":"103.764803, 1.368975",
+      "name":"Cashew"
+   },
+   {
+      "coords":"103.775797, 1.341133",
+      "name":"BeautyWorld"
+   },
+    {
+      "coords":"103.797633, 1.330714",
+      "name":"6thAv"
+   },
+   {
+      "coords":"103.815406, 1.322519",
+      "name":"BotanicGarden"
+   },
+   {
+      "coords":"103.784394, 1.293383",
+      "name":"WestCoast"
+   }
+]}

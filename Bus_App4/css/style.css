@@ -1,0 +1,265 @@
+  .header-default {
+  	background-image: url("../image/default.jpg");
+  	width: 100%;
+  	height: 600px;
+  	position:absolute;
+  	z-index: -1;
+  }
+
+  .JooKoon {
+    background-image: url("../image/1_JooKoon.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .BoonLay {
+    background-image: url("../image/2_BoonLay.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Clementi {
+    background-image: url("../image/4_Clementi.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .BuonaVista {
+    background-image: url("../image/5_BuonaVista.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Qeenstown {
+    background-image: url("../image/6_Qeenstown.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .SingaporeCity {
+    background-image: url("../image/7_SingaporeCity.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .PayaLebar {
+    background-image: url("../image/8_PayaLebar.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Eunos {
+    background-image: url("../image/9_Eunos.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Bedok {
+    background-image: url("../image/10_Bedok.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Changi {
+    background-image: url("../image/11_Changi.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Tampines {
+    background-image: url("../image/12_Tampines.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .LittleIndia {
+    background-image: url("../image/13_LittleIndia.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .ChinaTown {
+    background-image: url("../image/14_ChinaTown.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .BoonKeng {
+    background-image: url("../image/15_BoonKeng.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Serangoon {
+    background-image: url("../image/16_Serangoon.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Hougang {
+    background-image: url("../image/17_Hougang.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Punggol {
+    background-image: url("../image/18_Punggol.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+  
+  .TohPayoh {
+    background-image: url("../image/19_TohPayoh.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Bishan {
+    background-image: url("../image/20_Bishan.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .AngMoKio {
+    background-image: url("../image/21_AngMoKio.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Yishun {
+    background-image: url("../image/22_Yishun.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+  
+  .NorthSingapore {
+    background-image: url("../image/23_NorthSingapore.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .Woodlands {
+    background-image: url("../image/24_Woodlands.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .NorthWestSingapore {
+    background-image: url("../image/25_NorthWestSingapore.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .UpperBukitTimah {
+    background-image: url("../image/26_UpperBukitTimah.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+  
+  .BotanicGarden {
+    background-image: url("../image/27_BotanicGarden.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+
+  .WestCoast {
+    background-image: url("../image/28_WestCoast.jpg");
+    width: 100%;
+    height: 600px;
+    position:absolute;
+    z-index: -1;
+  }
+  .navbar {
+  	margin-bottom: 0;
+  	border-radius: 0;
+  	background-color: rgba(0,0,0,0.5);
+  	color:#ffffff;
+  	padding: 1% 0;
+  	font-size: 1.2em;
+  	border: 0;
+  }
+
+  .navbar-brand {
+  	float: left;
+  	min-height: 53px;
+  	padding: 0px 10px;
+  }
+
+  .navbar-inverse .navbar-nav .active a, 
+  .navbar-inverse .navbar-nav .active a:focus, 
+  .navbar-inverse .navbar-nav .active a:hover {
+  	color:#ffffff;
+  	background-color: rgba(0,0,0,0);
+  }
+
+  .navbar-inverse .navbar-nav li a {
+  	color: #dddddd;
+  }
+
+  .aboutText {
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    background-color: rgba(0,0,0,0.3);
+    color: white;
+
+  }
+
+  @media (max-width: 600px) {
+  	#header1 {
+  		width: 180%;
+  		left: -80%;
+  	}
+  }

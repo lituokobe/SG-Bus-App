@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<h1>Bus Schedule for {{stopNumber}}</h1>
+<a href="#!/"><p>Back to Search</p></a>
+<div ng-repeat="w in busResult.services">
+	<!-- <div class="row">
+		<div class="col-md-12"> -->
+			<bus-result-directive bus-info-object="w" time-next-function="convertToMinuteNext(time1)" time-next2-function="convertToMinuteNext2(time2)" load-function="busLoad(loadinfo)" feature-function="busFeature(featureinfo)" type-function="busType(typeinfo)"></bus-result-directive>
+	<!-- 	</div>
+	</div>	 -->
+</div>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<h1 style="color: white; text-align: center;">
+	<greeting-directive greeting-object = "message"></greeting-directive>
+</h1>
+
+<div ng-if="ready">
+	<div ng-repeat="(x,y) in busStopInfo">
+		<bus-stop-candidate-directive bus-stop-info-object = "y" bus-stop-number-string = "x" ng-click="selectStopNumber(x)"></bus-stop-candidate-directive>		
+	</div>
+</div>
+
+<div class="row">
+	<h4 style="color: white; text-align: center;">Not your bus stop? Search by stop code here</h4>
+	
+	<div class="col-md-8">	
+		<div class="form-group">
+			<input type="text" ng-model="stopNumber" class="form-control" />
+		</div>
+	</div>
+
+	<div class="col-md-4">	
+		<a href="#!/result" class="btn btn-primary">Get Schedule</a>
+	</div>	
+</div>
+</html>

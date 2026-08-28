@@ -1,0 +1,35 @@
+<div class="panel panel-default">
+	<div class="pand-heading">
+		<h2 class="panel-title">
+			Bus Number: {{busInfoObject.no}}
+		</h2>
+	</div>
+	<div class="panel-body">
+		This route is operated by {{busInfoObject.operator}}<br />
+		{{
+			timeNextFunction({time1:busInfoObject.next.duration_ms})
+		}}<br />
+		{{
+			loadFunction({loadinfo:busInfoObject.next.load})
+		}}<br />
+		{{
+			featureFunction({featureinfo:busInfoObject.next.feature})
+		}}<br />
+		{{
+			typeFunction({typeinfo:busInfoObject.next.type})
+		}}<br />
+		<br />
+		{{
+			timeNext2Function({time2:busInfoObject.next2.duration_ms})
+		}}<br />
+		{{
+			loadFunction({loadinfo:busInfoObject.next2.load})
+		}}<br />
+		{{
+			featureFunction({featureinfo:busInfoObject.next2.feature})
+		}}<br />
+		{{
+			typeFunction({typeinfo:busInfoObject.next2.type})
+		}}<br />
+	</div>
+</div>
